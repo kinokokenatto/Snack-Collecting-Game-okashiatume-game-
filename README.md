@@ -1,2 +1,3 @@
 # Snack-Collecting-Game-okashiatume-game-
 お菓子集めゲームを掲載
+オンライン機能は手動モードをおすすめします、自動モードはWindowsでコマンドを起動しないと使えないためです
